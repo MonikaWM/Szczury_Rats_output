@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ZZ_Zasoby/TableStyle2.css" />
+    <Link
+      Url="Content/ZZ_Zasoby/NewSnippet2-kolory_dzikich_szczurow.flsnp" />
+    <Link
+      Url="Content/ZZ_Zasoby/NewSnippet3-Zarejestrowane_Hodowle.flsnp" />
+    <Link
+      Url="https://petpad.net/types-of-rats/" />
+    <Link
+      Url="Content/_Obrazki/kolory_znaczenia_na_siersci.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ZZ_Zasoby/TableStyle2.css" />
+    <Link
+      Url="Content/ZZ_Zasoby/NewSnippet2-kolory_dzikich_szczurow.flsnp" />
+    <Link
+      Url="Content/ZZ_Zasoby/NewSnippet3-Zarejestrowane_Hodowle.flsnp" />
+    <Link
+      Url="https://petpad.net/types-of-rats/" />
+    <Link
+      Url="Content/_Obrazki/kolory_znaczenia_na_siersci.jpg" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/ZZ_Zasoby/TableStyle2.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

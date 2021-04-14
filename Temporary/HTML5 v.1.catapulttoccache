@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  DepSetCode="2419164203"
+  SavedSource="file:///C:/! Monika/studia/GIT/Flare/Szczury_Rats/Szczury_Rats/Output/Użytkownik/Temporary/HTML5 v.1.catapulttoccache">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/D_Ogolne/Strona_tytulowa.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D_Ogolne/Spis_tresci.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Opisy/1_Historia_szczura_domowego.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Opisy/2_Odmiany_szczura_domowego.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      ComputeToc="false"
+      ReplaceMergeNode="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Opisy/3_Zywienie_szczura_domowego.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/A_Opisy/3_1_Lista_bezpiecznych_owocow_warzyw.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue" />
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Opisy/4_Klatka_dla_szczura.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Opisy/5_Skad_wziac_szczura.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Opisy/6_Wazne_informacje.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      ComputeToc="false"
+      ReplaceMergeNode="false" />
+  </TocEntry>
+</CatapultToc>

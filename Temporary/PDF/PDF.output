@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/Użytkownik/PDF/PDF.pdf"
+  BuildVersion="16.2.7685.28170">
+  <Files>
+    <Url
+      Source="Output/Użytkownik/Temporary/PDF/PDF_3038947E/ZZ_Zasoby/TableStyle2.css" />
+    <Url
+      Source="Output/Użytkownik/Temporary/PDF/PDF_3038947E/_Obrazki/02.jpg" />
+    <Url
+      Source="Output/Użytkownik/Temporary/PDF/PDF_3038947E/_Obrazki/wyposazenie2.jpg" />
+    <Url
+      Source="Output/Użytkownik/Temporary/PDF/PDF_3038947E/_Obrazki/kolory_znaczenia_na_siersci.jpg" />
+    <Url
+      Source="Output/Użytkownik/Temporary/PDF/PDF_3038947E/_Obrazki/00.jpg" />
+    <Url
+      Source="Output/Użytkownik/Temporary/PDF/PDF_3038947E/_Obrazki/03.jpg" />
+    <Url
+      Source="Output/Użytkownik/Temporary/PDF/PDF_3038947E/ZZ_Zasoby/TableStyle3-bez_kolorow.css" />
+    <Url
+      Source="Output/Użytkownik/Temporary/PDF/PDF_3038947E/_Obrazki/wyposazenie.jpg" />
+    <Url
+      Source="Output/Użytkownik/Temporary/PDF/PDF_3038947E/_Obrazki/04.jpg" />
+    <Url
+      Source="Output/Użytkownik/Temporary/PDF/PDF_3038947E/_Obrazki/05.jpg" />
+    <Url
+      Source="Output/Użytkownik/Temporary/PDF/PDF_3038947E/_Obrazki/06.jpg" />
+    <Url
+      Source="Output/Użytkownik/PDF/PDF.pdf" />
+    <Url
+      Source="Output/Użytkownik/Temporary/PDF/PDF_3038947E/_Obrazki/01.jpg" />
+    <Url
+      Source="Output/Użytkownik/Temporary/PDF/PDF_3038947E/ZZ_Zasoby/Szczury_2_stylesheet.css" />
+    <Url
+      Source="Output/Użytkownik/Temporary/PDF/PDF_3038947E/_Obrazki/rats0.jpg" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

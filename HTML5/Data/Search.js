@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Opisy/1_Historia_szczura_domowego.htm'],s:['+','traktują'],p:[['+',3],['pokarmem',7]]});

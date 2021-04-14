@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ZZ_Zasoby/TableStyle3-bez_kolorow.css" />
+    <Link
+      Url="http://forum.szczury.biz/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ZZ_Zasoby/TableStyle3-bez_kolorow.css" />
+    <Link
+      Url="http://forum.szczury.biz/" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/ZZ_Zasoby/TableStyle3-bez_kolorow.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
